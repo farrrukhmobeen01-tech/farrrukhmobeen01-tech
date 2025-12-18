@@ -21,6 +21,7 @@ I am a Computer Science undergraduate with a strong foundation in **C++ programm
 
 * C++
 * C (Basic)
+* Object-Oriented Programming (OOP)
 
 **Concepts**
 
